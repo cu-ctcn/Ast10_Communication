@@ -1,2 +1,2 @@
 # Ast10_Communication
-PLXNB1 and other signaling drives a pathologic astrocyte state contributing to cognitive decline in Alzheimer’s Disease
+A systems approach uncovers drivers of the multifocal emergence of an astrocyte state contributing to cognitive decline in Alzheimer’s disease
