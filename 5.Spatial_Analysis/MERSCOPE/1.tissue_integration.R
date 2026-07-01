@@ -6,7 +6,7 @@ library(tidyverse)
 library(scCustomize)
 source("funcs_lisi.R")
 source("utils_pseudobulk_deg.R")
-source("utils_manual_annotate_v2.R")
+source("utils_manual_annotate.R")
 options(future.globals.maxSize = 3e+09)
 
 npc = 100

@@ -1,8 +1,8 @@
 
 rm(list =ls())
 gc()
-setwd("Code/MERSCOPE_Analysis/SensitivityAnalysis")
-source('utils_all_tissues.R')
+setwd("Code/MERSCOPE_Analysis/SpatialLagAnalysis")
+source('utils_spatial_lag.R')
 source('utils_results_summary.R')
 library(tidyverse)
 ##################################################################|
